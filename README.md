@@ -22,7 +22,7 @@ You have two options:
 If you just want to get up and running fast, download and run the setup script:
 
 ```bash
-curl -fsSL https://fiozxrrahman.net.eu.org/setup.sh | bash
+curl -fsSL https://github.com/fiozxr/pi-agent-android/blob/main/setup.sh | bash
 ```
 > This script automates all the steps from Option B below. Use Option B if you'd like more control or want to troubleshoot manually.
 

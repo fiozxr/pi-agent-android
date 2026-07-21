@@ -21,7 +21,7 @@ echo ""
 echo "[1/5] Updating Termux packages..."
 apt update -y
 
-echo "[2/5] Installing proot-distro fahhhh....."
+echo "[2/5] Installing proot-distro and nano..."
 apt install -y proot-distro nano
 
 # ---------------------------------------------------------

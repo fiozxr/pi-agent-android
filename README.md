@@ -32,7 +32,7 @@ curl -fsSL https://raw.githubusercontent.com/fiozxr/pi-agent-android/main/setup.
 
 ### 1. Install Termux from F-Droid
 
-Download and install Termux here: [https://f-droid.org/en/packages/com.termux/](https://f-droid.org/en/packages/com.termux/)
+Download and install Termux here: [https://f-droid.org/en/packages/com.termux/](https://f-droid.org/en/packages/com.termux/) or [CLICK THIS](https://f-droid.org/repo/com.termux_1022.apk) 
 
 > ⚠️ Do **not** install Termux from the Google Play Store — it's outdated and no longer supported.
 

@@ -5,10 +5,8 @@
 # and configures auto-login into Ubuntu on every Termux launch.
 #
 # Usage:
-#   curl -fsSL https://your-repo-link/setup.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/fiozxr/pi-agent-android/main/setup.sh | bash
 #
-
-set -e  # Exit immediately if a command fails
 
 echo "=================================================="
 echo "  PI CLI Setup — Termux + Ubuntu (proot-distro)"
@@ -22,7 +20,7 @@ echo "[1/5] Updating Termux packages..."
 apt update -y && apt upgrade -y
 
 echo "[2/5] Installing proot-distro and nano..."
-apt install -y proot-distro nano
+apt install -y proot-distro nano -y
 
 # ---------------------------------------------------------
 # Step 2: Install Ubuntu via proot-distro

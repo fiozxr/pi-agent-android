@@ -8,6 +8,8 @@
 #   curl -fsSL https://raw.githubusercontent.com/fiozxr/pi-agent-android/main/setup.sh | bash
 #
 
+set -e  # Exit immediately if a command fails
+
 echo "=================================================="
 echo "  PI CLI Setup — Termux + Ubuntu (proot-distro)"
 echo "=================================================="

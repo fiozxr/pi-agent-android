@@ -17,10 +17,10 @@ echo ""
 # Step 1: Update Termux and install proot-distro + nano
 # ---------------------------------------------------------
 echo "[1/5] Updating Termux packages..."
-apt update -y && apt upgrade -y
+apt update -y
 
-echo "[2/5] Installing proot-distro and nano..."
-apt install -y proot-distro nano -y
+echo "[2/5] Installing proot-distro fahhhh....."
+apt install -y proot-distro nano
 
 # ---------------------------------------------------------
 # Step 2: Install Ubuntu via proot-distro

@@ -62,7 +62,7 @@ echo "[5/5] Entering Ubuntu to install Node.js and PI CLI..."
 proot-distro login ubuntu -- bash -c "
     set -e
     echo '--- Updating Ubuntu packages ---'
-    apt update -y && apt upgrade -y
+    apt update -y
 
     echo '--- Installing Node.js ---'
     apt install -y nodejs npm

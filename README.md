@@ -17,7 +17,7 @@ You have two options:
 
 ---
 # Screenshot:
-!pi](/Screenshot_2026-07-22-08-12-25-505_com.termux.jpg)
+![pi](/Screenshot_2026-07-22-08-12-25-505_com.termux.jpg)
 ---
 
 ## ⚡ Option A: Quick Setup (setup.sh)

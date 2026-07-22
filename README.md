@@ -16,6 +16,9 @@ You have two options:
 - A stable internet connection ( ~700MB )
 
 ---
+# Screenshot:
+!pi](/Screenshot_2026-07-22-08-12-25-505_com.termux.jpg)
+---
 
 ## ⚡ Option A: Quick Setup (setup.sh)
 
